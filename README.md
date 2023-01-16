@@ -1,2 +1,0 @@
-# platzi
-Software Academy
