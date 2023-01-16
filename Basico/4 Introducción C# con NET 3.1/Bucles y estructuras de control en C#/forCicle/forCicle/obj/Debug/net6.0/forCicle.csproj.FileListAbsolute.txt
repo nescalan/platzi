@@ -1,0 +1,15 @@
+C:\Users\Nelson\Documents\GitHub\platzi\Basico\4 Introducción C# con NET 3.1\Bucles y estructuras de control en C#\forCicle\forCicle\bin\Debug\net6.0\forCicle.exe
+C:\Users\Nelson\Documents\GitHub\platzi\Basico\4 Introducción C# con NET 3.1\Bucles y estructuras de control en C#\forCicle\forCicle\bin\Debug\net6.0\forCicle.deps.json
+C:\Users\Nelson\Documents\GitHub\platzi\Basico\4 Introducción C# con NET 3.1\Bucles y estructuras de control en C#\forCicle\forCicle\bin\Debug\net6.0\forCicle.runtimeconfig.json
+C:\Users\Nelson\Documents\GitHub\platzi\Basico\4 Introducción C# con NET 3.1\Bucles y estructuras de control en C#\forCicle\forCicle\bin\Debug\net6.0\forCicle.dll
+C:\Users\Nelson\Documents\GitHub\platzi\Basico\4 Introducción C# con NET 3.1\Bucles y estructuras de control en C#\forCicle\forCicle\bin\Debug\net6.0\forCicle.pdb
+C:\Users\Nelson\Documents\GitHub\platzi\Basico\4 Introducción C# con NET 3.1\Bucles y estructuras de control en C#\forCicle\forCicle\obj\Debug\net6.0\forCicle.csproj.AssemblyReference.cache
+C:\Users\Nelson\Documents\GitHub\platzi\Basico\4 Introducción C# con NET 3.1\Bucles y estructuras de control en C#\forCicle\forCicle\obj\Debug\net6.0\forCicle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nelson\Documents\GitHub\platzi\Basico\4 Introducción C# con NET 3.1\Bucles y estructuras de control en C#\forCicle\forCicle\obj\Debug\net6.0\forCicle.AssemblyInfoInputs.cache
+C:\Users\Nelson\Documents\GitHub\platzi\Basico\4 Introducción C# con NET 3.1\Bucles y estructuras de control en C#\forCicle\forCicle\obj\Debug\net6.0\forCicle.AssemblyInfo.cs
+C:\Users\Nelson\Documents\GitHub\platzi\Basico\4 Introducción C# con NET 3.1\Bucles y estructuras de control en C#\forCicle\forCicle\obj\Debug\net6.0\forCicle.csproj.CoreCompileInputs.cache
+C:\Users\Nelson\Documents\GitHub\platzi\Basico\4 Introducción C# con NET 3.1\Bucles y estructuras de control en C#\forCicle\forCicle\obj\Debug\net6.0\forCicle.dll
+C:\Users\Nelson\Documents\GitHub\platzi\Basico\4 Introducción C# con NET 3.1\Bucles y estructuras de control en C#\forCicle\forCicle\obj\Debug\net6.0\refint\forCicle.dll
+C:\Users\Nelson\Documents\GitHub\platzi\Basico\4 Introducción C# con NET 3.1\Bucles y estructuras de control en C#\forCicle\forCicle\obj\Debug\net6.0\forCicle.pdb
+C:\Users\Nelson\Documents\GitHub\platzi\Basico\4 Introducción C# con NET 3.1\Bucles y estructuras de control en C#\forCicle\forCicle\obj\Debug\net6.0\forCicle.genruntimeconfig.cache
+C:\Users\Nelson\Documents\GitHub\platzi\Basico\4 Introducción C# con NET 3.1\Bucles y estructuras de control en C#\forCicle\forCicle\obj\Debug\net6.0\ref\forCicle.dll
