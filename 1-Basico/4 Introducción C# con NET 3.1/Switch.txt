@@ -1,4 +1,0 @@
-¿Para qué sirve Switch?
-Piensa en ella como una alternativa a if-else, pero en este caso se evaluará que una sola expresión coincida con una cantidad limitada de valores o condiciones.
-
-Imagina que tienes una lista limitada de refrescos y quieres imprimir en un ticket cuál escogió el cliente y su precio. Para este caso podemos utilizar un Switch case de esta forma:
