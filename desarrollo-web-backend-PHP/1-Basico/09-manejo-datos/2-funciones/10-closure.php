@@ -9,7 +9,7 @@ $greet = function ($name) use ($message) {
     echo "$message $name";
 };
 
-function processNumbers($numbers, $callback)
+function processNumbers($numbers, Closure $callback)
 {
     foreach ($numbers as $number) {
         $result = $callback($number);
