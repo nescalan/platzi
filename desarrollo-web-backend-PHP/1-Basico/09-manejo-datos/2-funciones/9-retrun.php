@@ -8,4 +8,6 @@ function greet($name)
 
 echo greet('Nelson');
 
+exit(); // detiene el sistema
+
 ?>
